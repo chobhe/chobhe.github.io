@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-**My Philosophy**
+**Philosophy**
 
 In the last few years, a pillar of my belief system has always been that intrinsic motivation is derived from fulfillment found in mission-driven consistency. 
 Now how do we define fulfillment? For me, it's the contentment of not needing to look for "more" extrinsically. 
