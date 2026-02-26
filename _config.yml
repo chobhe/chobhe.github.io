@@ -22,7 +22,7 @@ title: My Thoughts
 email: he.Charlie@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
   My thoughts and experiences as someone working in startups
-  and figuring out how to naviagate his young life
+  and figuring out how to navigate his young life
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://charliehe.blog" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: charlie_he_
