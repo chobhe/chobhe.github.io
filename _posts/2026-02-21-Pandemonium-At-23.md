@@ -3,7 +3,7 @@ You know that feeling when you're immobilized by decision paralysis because ther
 
 
 ## Background
-Roughly four years ago, I dropped out of UC Berkeley after my second year (May 2022) to work with some acquaintances on a startup (since then, we've become best friends). I was the first engineer there and the third employee — I'm now the longest-tenured employee still around. We've gone through thick and thin together. From experiencing two major pivots, raising two rounds of funding, to building out an incredible team and working on fun problems, we've gone through the ups and downs of startup life and friendship together — practically coming of age in the process.
+Roughly four years ago, I dropped out of UC Berkeley after my second year (May 2022) to work with some acquaintances on a startup (since then, we've become best friends). I was the first engineer there and the longest-tenured employee. We've gone through thick and thin together. From experiencing two major pivots, raising two rounds of funding, to building out an incredible team and working on fun problems, we've gone through the ups and downs of startup life and friendship together — practically coming of age in the process.
 
 Now (more accurately, Dec 2025), a friend of mine sought me out to work on a project together. She mentioned that it had interesting applications in an early space. I've always been interested in new technology, so I happily agreed to spend a couple hours a week working together. Since then, the MVP has become usable, and it's really promising.
 
